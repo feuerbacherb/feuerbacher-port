@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/feuerbacher-port/precache-manifest.ac2bba57d724c822578f71b2c8cb8a05.js"
+  "/feuerbacher-port/precache-manifest.cd77673f4524b60bf585506a063b0229.js"
 );
 
 self.addEventListener('message', (event) => {
