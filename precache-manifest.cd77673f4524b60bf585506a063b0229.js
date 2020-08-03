@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4671fcf33f389f06e99644e5d3ef83e",
+    "revision": "faf3894fe171bb77e272870364afdc0a",
     "url": "/feuerbacher-port/index.html"
   },
   {
-    "revision": "216e025ed189d1472f50",
+    "revision": "7e73a254eac35c9ebbd2",
     "url": "/feuerbacher-port/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/feuerbacher-port/static/js/2.c4d09526.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "216e025ed189d1472f50",
-    "url": "/feuerbacher-port/static/js/main.abb58933.chunk.js"
+    "revision": "7e73a254eac35c9ebbd2",
+    "url": "/feuerbacher-port/static/js/main.cb81a639.chunk.js"
   },
   {
     "revision": "20595e63e492babd20d6",
