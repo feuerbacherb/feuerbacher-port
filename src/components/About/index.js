@@ -23,7 +23,7 @@ export default class About extends Component {
                         <h2>Contact Details</h2>
                         <p className="address">
                             <span>Brent Feuerbacher</span><br />
-                            <span>3840 FM 2657 Briggs, TX USA
+                            <span>3840 FM 2657<br />Briggs, TX USA
                             </span><br />
                             <span>(512) 964-6668</span><br />
                             <span>feuerbacherb@gmail.com</span>
