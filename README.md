@@ -17,6 +17,8 @@ The Download Resume button works locally but not on the page.  Stephen said this
 
 Also, sending contact information to me does not work.  I disabled it because we have not gone over how to make this work.
 
+Because we created the react repo locally first, I forgot to create it online.  Not everything went up with the initial push.  Most of the commits are local.
+
 ## Deployment
 Live site: https://feuerbacherb.github.io/feuerbacher-port
 Github: https://github.com/feuerbacherb/feuerbacher-port
