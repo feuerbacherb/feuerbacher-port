@@ -9,21 +9,31 @@ export default class Portfolio extends Component {
                 <h1>Check Out Some of My Work.</h1>
                 {/* portfolio-wrapper */}
                 <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-                    <div key="vacation-planner" className="columns portfolio-item">
-                    <div className="item-wrap">                    
-                        <a href="https://feuerbacherb.github.io/Vacation-Planner/" title="vacation-planner" target="_blank" rel="noopener noreferrer">
-                        <img alt="vacation-planner" src="images/portfolio/vacationplanner.jpg" />
-                        <div className="overlay">
-                            <div className="portfolio-item-meta">
-                            <h5>Vacation Planner</h5>
-                            <p>Looking for a quick vacation to a national park?  This is the place to start!</p>
-                            </div>
-                        </div>                            
-                        </a>    
-                            <a href="https://github.com/feuerbacherb/vacation-planner"><i className="fa fa-github" /></a>
-
-                        
-                    </div>
+                    <div key="project-it" className="columns portfolio-item">
+                        <div className="item-wrap">                    
+                            <a href="https://project-it-panda.herokuapp.com" title="project-it" target="_blank" rel="noopener noreferrer">
+                            <img alt="project it" src="images/portfolio/projectit.jpg" />
+                            <div className="overlay">
+                                <div className="portfolio-item-meta">
+                                <h5>Project It</h5>
+                                <p>Project Management and Team Building in one spot</p>
+                                </div>
+                            </div>                            
+                            </a>    
+                                <a href="https://github.com/roxyvaught/project-it"><i className="fa fa-github" /></a>
+                        </div>
+                        <div className="item-wrap">                    
+                            <a href="https://feuerbacherb.github.io/Vacation-Planner/" title="vacation-planner" target="_blank" rel="noopener noreferrer">
+                            <img alt="vacation-planner" src="images/portfolio/vacationplanner.jpg" />
+                            <div className="overlay">
+                                <div className="portfolio-item-meta">
+                                <h5>Vacation Planner</h5>
+                                <p>Looking for a quick vacation to a national park?  This is the place to start!</p>
+                                </div>
+                            </div>                            
+                            </a>    
+                                <a href="https://github.com/feuerbacherb/vacation-planner"><i className="fa fa-github" /></a>
+                        </div>
                     </div> {/*item end */}
                     <div className="columns portfolio-item">
                     <div className="item-wrap">
