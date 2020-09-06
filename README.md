@@ -1,3 +1,30 @@
+#feuerbacher-port
+
+## Description
+This is one way of how you can put your resume out on the interweb.  Thanks to the folks at Styleshout for allowing the use of their css code.
+
+## Usage
+This is a portfolio, much like the one we created earlier, but this time in React.
+
+## Install
+You see, this is a portfolio... why would you want to install it?  Read it and enjoy, possibly offer me a job?
+
+## Testing
+Not much in the way of testing was done besides on my local machine.
+
+## Issues
+The Download Resume button works locally but not on the page.  Stephen said this would not have points taken off.  By the way, right clicking on the link will allow you to view the resume, but clicking on the link does not.
+
+Also, sending contact information to me does not work.  I disabled it because we have not gone over how to make this work.
+
+Because we created the react repo locally first, I forgot to create it online.  Not everything went up with the initial push.  Most of the commits are local.
+
+## Deployment
+Live site: https://feuerbacherb.github.io/feuerbacher-port
+Github: https://github.com/feuerbacherb/feuerbacher-port
+
+# The React Stuff is below this statement
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
