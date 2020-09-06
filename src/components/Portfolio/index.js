@@ -12,7 +12,7 @@ export default class Portfolio extends Component {
                     <div key="project-it" className="columns portfolio-item">
                         <div className="item-wrap">                    
                             <a href="https://project-it-panda.herokuapp.com" title="project-it" target="_blank" rel="noopener noreferrer">
-                            <img alt="project it" src="images/portfolio/projectit.jpg" />
+                            <img alt="project-it" src="images/portfolio/projectit.jpg" />
                             <div className="overlay">
                                 <div className="portfolio-item-meta">
                                 <h5>Project It</h5>
