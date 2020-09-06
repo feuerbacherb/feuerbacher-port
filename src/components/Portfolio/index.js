@@ -22,6 +22,8 @@ export default class Portfolio extends Component {
                             </a>    
                                 <a href="https://github.com/roxyvaught/project-it"><i className="fa fa-github" /></a>
                         </div>
+                    </div> {/*item end */}
+                    <div className="item-wrap">
                         <div className="item-wrap">                    
                             <a href="https://feuerbacherb.github.io/Vacation-Planner/" title="vacation-planner" target="_blank" rel="noopener noreferrer">
                             <img alt="vacation-planner" src="images/portfolio/vacationplanner.jpg" />
