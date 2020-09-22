@@ -18,7 +18,7 @@ function Resume() {
                         <h3>Austin Community College</h3>
                         <p className="info">Computer Aided Drafting <span>•</span> <em className="date">April 2014</em></p>
                         <p>
-                            I was a member of the President's Honor Roll, National Society of Collegiate Scholars and Php Theta Kappa International Honor Society.
+                            Member of the President's Honor Roll, National Society of Collegiate Scholars and Php Theta Kappa International Honor Society.
                         </p>
                         </div>
                     </div> {/* item end */}
