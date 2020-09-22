@@ -327,7 +327,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .github {
-     width: 70%;
+     width: 75%;
      animation: github 2s ease;
   	-moz-animation: github 2s ease;
   	-webkit-animation: github 2s ease;
@@ -345,25 +345,25 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: HTML5 2s ease;
 }
 .express {
-     width: 65%;
+     width: 80%;
      animation: express 2s ease;
   	-moz-animation: express 2s ease;
   	-webkit-animation: wordpexpressress 2s ease;
 }
 .css {
-     width: 70%;
+     width: 75%;
      animation: css 2s ease;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .handlebars {
-     width: 60%;
+     width: 70%;
       animation: handlebars 2s ease;
   	-moz-animation: handlebars 2s ease;
   	-webkit-animation: handlebars 2s ease;
 }
 .react {
-     width: 40%;
+     width: 60%;
       animation: react 2s ease;
   	-moz-animation: react 2s ease;
   	-webkit-animation: react 2s ease;
