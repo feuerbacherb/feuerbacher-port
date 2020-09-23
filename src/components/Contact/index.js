@@ -89,7 +89,7 @@ function Contact()  {
                         <p className="address">
                         Brent Feuerbacher<br />
                         3840 FM 2657 <br />
-                        Briggsw, TX 78608 US<br />
+                        Briggs, TX 78608 US<br />
                         <span>(512) 964-6668</span>
                         </p>
                     </div>
