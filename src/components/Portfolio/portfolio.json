@@ -1,0 +1,58 @@
+[
+  {
+    "id": "project-it",
+    "image": "projectit",
+    "produrl": "https://project-it-panda.herokuapp.com",
+    "title": "Project It",
+    "description": "Project management and team building in one spot",
+    "github": "https://github.com/feuerbacherb/project-it"
+  },
+  {
+    "id": "vacation-planner",
+    "image": "vacationplanner",
+    "produrl": "https://feuerbacherb.github.io/Vacation-Planner",
+    "title": "Vacation Planner",
+    "description": "Looking for a quick vacation to a national park?  This is the place to start!",
+    "github": "https://github.com/feuerbacherb/vacation-planner"
+  },
+  {
+    "id": "hearth",
+    "image": "hearth",
+    "produrl": "https://infinite-ocean-27765.herokuapp.com/",
+    "title": "Hearth",
+    "description": "Looking for a quick vacation to a national park?  This is the place to start!",
+    "github": "https://github.com/feuerbacherb/hearth"
+  },
+  {
+    "id": "password-generator",
+    "image": "passwordgenerator",
+    "produrl": "https://feuerbacherb.github.io/password-generator/",
+    "title": "Password Generator",
+    "description": "Need to create a new password?  With this program, you can create a password that with upper/lowercase as well as special characters!",
+    "github": "https://github.com/feuerbacherb/password-generator"
+  },
+  {
+    "id": "code-quiz",
+    "image": "codequiz",
+    "produrl": "https://feuerbacherb.github.io/code-quiz",
+    "title": "Code Quiz",
+    "description": "Try your hand at a randomized quiz and beat the clock for the highest score!",
+    "github": "https://github.com/feuerbacherb/code-quiz"
+  },
+  {
+    "id": "work-scheduler",
+    "image": "workscheduler",
+    "produrl": "https://feuerbacherb.github.io/work-scheduler/",
+    "title": "Work Scheduler",
+    "description": "Set up a schedule of things for you to do!",
+    "github": "https://github.com/feuerbacherb/work-scheduler"
+  },
+  {
+    "id": "weather dashboard",
+    "image": "weatherdashboard",
+    "produrl": "https://feuerbacherb.github.io/weather-dashboard/",
+    "title": "Weather Dashboard",
+    "description": "Find the weather forecast for your area!",
+    "github": "https://github.com/feuerbacherb/weather-dashboard"
+  }
+]
